@@ -1,4 +1,4 @@
-// Generic Matriz 2D C++ code
+// Generic Matrix C++
 // Sergio Herrera 
 // 23/Jan/2020
 
